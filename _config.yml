@@ -1,4 +1,4 @@
 url: "https://ferdowsi-lab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "The Ferdowsi Research Laboratory" # the name of your site, e.g. ACME Corp.
-description: "Rheology of Earth materials and physics of <br>Earth’s near-surface processes"
+description: "for rheology of earth materials and physics of <br>earth’s near-surface processes"
