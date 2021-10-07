@@ -1,9 +1,12 @@
 menu:
-- {name: 'people', url: '/people'}
+- {name: 'research', url: '/research'}
 - {name: 'publications', url: '/publications'}
 - {name: 'courses', url: '/courses'}
-- {name: 'cv', url: '/cv'}
+- {name: 'people', url: '/people'}
+- {name: 'interests and resources', url: '/interests'}
 - {name: 'contact', url: '/contact'}
+- {name: 'join', url: '/positions'}
+
 
 people:
 - {name: 'Behrooz Ferdowsi', title: 'Assistant Professor', department: 'Civil and Environmental Engineering', institution: 'University of Houston', institution_address: 'Cullen College of Engineering, 4726 Calhoun Road
