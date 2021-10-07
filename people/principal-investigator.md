@@ -10,14 +10,14 @@ Assistant Professor - Civil and Environmental Engineering
 University of Houston<br>
 Cullen College of Engineering <br>
 Department of Civil and Environmental Engineering<br>
-N107 Engineering Bldg 1<br>
 4726 Calhoun Road<br>
+Houston, TX 77204-4003
 
 Phone: 713-743-4293
 
 Email: bferdowsi@uh.edu
 
-Office: 713-743-4293
+Office: N115 Engineering Building 1
 
 ---
 
