@@ -17,4 +17,5 @@ courses:
 - {name: ' ', url: ' '}
 
 contacts:
-- {name: 'Dr. Academia', title: 'Professor', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/contact.jpg'}
+- {name: 'Dr. Behrooz Ferdowsi', title: 'Assistant Professor', department: 'Civil and Environmental Engineering', institution: 'University of Houston', institution_address: 'Cullen College of Engineering, 4726 Calhoun Road
+Houston, TX 77204-4003', phone: '713-743-4293', email: 'bferdowsi@uh.edu', office: 'N115 Engineering Building 1', image: 'assets/img/contact.jpg'}
