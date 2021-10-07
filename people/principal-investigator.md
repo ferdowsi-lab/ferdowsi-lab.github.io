@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Dr. Behrooz Ferdowsi"
+title: "Behrooz Ferdowsi"
 ---
 
 Pronouns: he/him/they/them
