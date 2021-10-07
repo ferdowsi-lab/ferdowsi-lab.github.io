@@ -3,7 +3,7 @@ layout: page
 title: "Behrooz Ferdowsi"
 ---
 
-Pronouns: he/him/they/them
+Pronouns: he/they
 
 Assistant Professor<br>
 University of Houston<br>
