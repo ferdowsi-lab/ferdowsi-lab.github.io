@@ -7,10 +7,10 @@ menu:
 
 
 people:
-  - {name: 'Behrooz Ferdowsi', title: 'Assistant Professor', pronouns: 'he/they', department: 'Civil and Environmental Engineering', institution: 'University of Houston', institution_address: 'Cullen College of Engineering, 4726 Calhoun Road
+  - {name: 'Behrooz Ferdowsi', title: 'Assistant Professor', department: 'Civil and Environmental Engineering', institution: 'University of Houston', institution_address: 'Cullen College of Engineering, 4726 Calhoun Road
 Houston, TX 77204-4003', phone: '713-743-4293', email: 'bferdowsi@uh.edu', office: 'N115 Engineering Building 1', image: 'assets/img/L1000048.JPG', url: 'principal-investigator'}
-- {name: 'Postdoctoral Researcher', title: 'Researcher', pronouns: ' ', department: ' ', institution: ' ', institution_address: ' ', phone: ' ', email: ' ', office: ' ', image: ' ', url: 'postdoctoral-researchers'}
-- {name: 'Graduate Student', title: 'Researcher', pronouns: ' ', department: ' ', institution: ' ', institution_address: ' ', phone: ' ', email: ' ', office: ' ', image: ' ', url: 'graduate-students'}
+- {name: 'Postdoctoral Researcher', title: 'Researcher', department: ' ', institution: ' ', institution_address: ' ', phone: ' ', email: ' ', office: ' ', image: ' ', url: 'postdoctoral-researchers'}
+- {name: 'Graduate Student', title: 'Researcher', department: ' ', institution: ' ', institution_address: ' ', phone: ' ', email: ' ', office: ' ', image: ' ', url: 'graduate-students'}
 
 courses:
 - {name: ' ', url: ' '}
@@ -18,5 +18,5 @@ courses:
 - {name: ' ', url: ' '}
 
 contacts:
-- {name: 'Dr. Behrooz Ferdowsi', title: 'Assistant Professor', pronouns: ' ', department: 'Civil and Environmental Engineering', institution: 'University of Houston', institution_address: 'Cullen College of Engineering, 4726 Calhoun Road
+- {name: 'Dr. Behrooz Ferdowsi', title: 'Assistant Professor', department: 'Civil and Environmental Engineering', institution: 'University of Houston', institution_address: 'Cullen College of Engineering, 4726 Calhoun Road
 Houston, TX 77204-4003', phone: '713-743-4293', email: 'bferdowsi@uh.edu', office: 'N115 Engineering Building 1', image: 'assets/img/contact.jpg'}
