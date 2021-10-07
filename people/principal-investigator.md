@@ -3,15 +3,18 @@ layout: page
 title: "Principal Investigator"
 ---
 
-Researcher - Physics & Astronomy
+Assistant Professor - Civil and Environmental Engineering
 
-Some University - 1 Main Street, Canada
+University of Houston<br>
+Cullen College of Engineering <br>
+Department of Civil and Environmental Engineering<br>
+N107 Engineering Bldg 1<br>
+4726 Calhoun Road<br>
+Phone: 713-743-4293
 
-Phone: (000) 000-0000
+Email: bferdowsi@uh.edu
 
-Email: hello@university.edu
-
-Office: Science Building 505
+Office: 713-743-4293
 
 ---
 
