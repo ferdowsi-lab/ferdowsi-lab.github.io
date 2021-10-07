@@ -4,7 +4,6 @@ menu:
 - {name: 'courses', url: '/courses'}
 - {name: 'people', url: '/people'}
 - {name: 'interests and resources', url: '/interests'}
-- {name: 'contact', url: '/contact'}
 - {name: 'join', url: '/positions'}
 
 
