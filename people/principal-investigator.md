@@ -6,9 +6,9 @@ title: "Behrooz Ferdowsi"
 Pronouns: he/they
 
 Assistant Professor<br>
-University of Houston<br>
-Cullen College of Engineering<br>
 Department of Civil and Environmental Engineering<br>
+Cullen College of Engineering<br>
+University of Houston<br>
 4726 Calhoun Road<br>
 Houston, TX 77204-4003<br>
 
