@@ -1,10 +1,9 @@
 menu:
-- {name: 'research', url: '/research'}
-- {name: 'publications', url: '/publications'}
-- {name: 'courses', url: '/courses'}
-- {name: 'people', url: '/people'}
-- {name: 'interests and resources', url: '/interests'}
-- {name: 'join', url: '/positions'}
+- {name: 'Research', url: '/research'}
+- {name: 'Publications', url: '/publications'}
+- {name: 'People', url: '/people'}
+- {name: 'Interests and Resources', url: '/interests'}
+- {name: 'Join', url: '/positions'}
 
 
 people:
