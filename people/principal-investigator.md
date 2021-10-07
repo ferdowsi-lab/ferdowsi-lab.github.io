@@ -5,14 +5,13 @@ title: "Dr. Behrooz Ferdowsi"
 
 Pronouns: he/him/they/them
 
-Assistant Professor
-
-Department of Civil and Environmental Engineering
-University of Houston
-Cullen College of Engineering
-Department of Civil and Environmental Engineering
-4726 Calhoun Road
-Houston, TX 77204-4003
+Assistant Professor<br>
+Department of Civil and Environmental Engineering<br>
+University of Houston<br>
+Cullen College of Engineering<br>
+Department of Civil and Environmental Engineering<br>
+4726 Calhoun Road<br>
+Houston, TX 77204-4003<br>
 
 Phone: 713-743-4293
 
