@@ -6,7 +6,6 @@ title: "Dr. Behrooz Ferdowsi"
 Pronouns: he/him/they/them
 
 Assistant Professor<br>
-Department of Civil and Environmental Engineering<br>
 University of Houston<br>
 Cullen College of Engineering<br>
 Department of Civil and Environmental Engineering<br>
