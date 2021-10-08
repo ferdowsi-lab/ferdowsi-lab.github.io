@@ -2,7 +2,7 @@ menu:
 - {name: 'Home', url: '/..'}
 - {name: 'Publications', url: '/publications'}
 - {name: 'People', url: '/people'}
-- {name: 'Resources', url: '/interests'}
+- {name: 'Resources', url: '/resources'}
 - {name: 'Join', url: '/positions'}
 
 
