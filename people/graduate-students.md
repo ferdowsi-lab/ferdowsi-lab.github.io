@@ -1,5 +1,5 @@
 ---
 layout: page
-title: "Graduate Student"
+title: "Graduate Students"
 ---
 
