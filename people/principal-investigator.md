@@ -28,4 +28,3 @@ Office: N115 Engineering Building 1
 
 * I used to do (I guess the right verb is "draw", but I am not sure) [Persian calligraphy](https://en.wikipedia.org/wiki/Persian_calligraphy) up to my college years. I no longer have time for it though, but I still enjoy seeing this unique form of art.
 
-* I don't have a particularly strong gender identity, a situation that I came to fully understand only in recent years. I could use any pronouns (he/they) and I am comfortable being called with any pronouns. One of the interesting facts about my native language (Farsi/Persian) is that pronouns in Farsi/Persian are gender-neutral, so I didn't have to think too much about this aspect of life (i.e., what to be called) before getting completely used to the English language (which traditionally has a strong gender-based pronoun and language structure). 
