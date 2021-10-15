@@ -3,7 +3,7 @@ layout: page
 title: "Behrooz Ferdowsi"
 ---
 
-Pronouns: he/they
+Pronouns: he/him/they/them
 
 Assistant Professor (Sept. 2021 - present)<br>
 Department of Civil and Environmental Engineering<br>
