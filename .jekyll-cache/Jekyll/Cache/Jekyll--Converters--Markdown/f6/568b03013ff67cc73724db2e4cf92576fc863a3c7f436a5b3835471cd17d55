@@ -1,49 +1,4 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta charset="utf-8">
-  <title>Behrooz Ferdowsi | The Ferdowsi Research Laboratory</title>
-  <link rel="stylesheet" href="/assets/libs/bootstrap/bootstrap.min.css">
-  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <script defer src="/assets/libs/fontawesome/all.min.js"></script>
-  <link rel="stylesheet" href="/assets/css/main.css">
-  <link rel="apple-touch-icon" sizes="152x152" href="/assets/apple-icon-152x152.png">
-  <link rel="shortcut icon" href="/assets/favicon.ico">
-  <link rel="preconnect" href="https://fonts.gstatic.com">
-  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,700;1,400&display=swap" rel="stylesheet"> 
-</head>
-
-  <body>
-    <div class="col-lg-8 mx-auto p-3 py-md-5">
-      <header class="d-flex flex-column flex-md-row align-items-center pb-3 mb-5 border-bottom">
-  <div>
-    <a href="/" class="d-flex align-items-center text-decoration-none">
-      <span class="fs-4 fw-bold">The Ferdowsi Research Laboratory</span>
-    </a>
-    <a href="/" class="d-flex align-items-center text-decoration-none">
-      <span>for rheology of earth materials and physics of <br>earth’s near-surface processes</span>
-    </a>
-  </div>
-  <nav class="d-inline-flex mt-2 mt-md-0 ms-md-auto">
-    
-      <a class="me-3 py-2 text-decoration-none" href="/..">Home</a>
-    
-      <a class="me-3 py-2 text-decoration-none" href="/publications">Publications</a>
-    
-      <a class="me-3 py-2 text-decoration-none" href="/people">People</a>
-    
-      <a class="me-3 py-2 text-decoration-none" href="/resources">Resources</a>
-    
-      <a class="me-3 py-2 text-decoration-none" href="/positions">Join</a>
-    
-  </nav>
-</header>
-
-      <div class="row g-5 mb-5">
-  <div class="col-md-12">
-    <h3 class="fw-bold border-bottom pb-3 mb-5">Behrooz Ferdowsi</h3>
-    <p>Pronouns: he/him/they/them</p>
+I"z<p>Pronouns: he/him/they/them</p>
 
 <p>Assistant Professor (Sept. 2021 - present)<br />
 Department of Civil and Environmental Engineering<br />
@@ -62,7 +17,7 @@ Houston, TX 77204-4003<br /></p>
 
 <p><strong>Academic biography and facts</strong>: Behrooz Ferdowsi is an Assistant Professor (Sept. 2021 - present) in the Department of Civil and Environmental Engineering at the University of Houston, where he leads a newly established research group on the rheology of Earth materials and physics of Earth’s near-surface processes. Behrooz obtained his Ph.D. in Civil, Environmental and Geomatic Engineering from ETH Zurich in Switzerland and his M.Sc. in Civil Engineering from Tehran Polytechnic in Iran. In his PhD research, he worked on understanding the mechanism of triggering of stick-slip instabilities in sheared granular materials using computational methods. For his first postdoctoral appointment, he was based (jointly) in the Department of Earth and Environmental Science at the University of Pennsylvania and in the National Center for Earth-surface Dynamics at the University of Minnesota. During this period, he worked on granular physics of sediment transport in fluvial (rivers and streams) systems and on further understanding the physical basis of the empirical transport laws used for modeling the evolution of landscapes over geological timescale. This is followed by his second appointment as a Harry H. Hess fellow of the Department of Geosciences at Princeton University, during which he worked on understanding the physical origin of an empirical constitutive modeling framework, known as the rate- and state-dependent friction. This framework is commonly used for modeling the transient friction of rocks and other geological materials, including ice-on-ice and ice-on-rock friction, and it is also used for simulating the sliding of glaciers and the nucleation of icequakes. Behrooz is a regular member of the American Physical Society, American Association for the Advancement of Science, American Geophysical Union, Society of Rheology, Society for Industrial and Applied Mathematics, National Association of Geoscience Teachers, and the Earth Science Women’s Network.</p>
 
-<p><strong>Personal facts</strong>: Besides science and research in my core research program, I enjoy reading and listening (audiobooks) about the history of science and about the American history. I drink A LOT OF coffee (espresso and brewed) per day. In my free time, I occasionally spend hours looking at and trying to understand beautiful landscape paintings. Some of my favorite contemporary artists until nowadays are <a href="https://en.wikipedia.org/wiki/Richard_Mayhew">Richard Mayhew</a>, <a href="https://en.wikipedia.org/wiki/Julie_Mehretu">Julie Mehretu</a>, Kadir Nelson<a href="https://en.wikipedia.org/wiki/Kadir_Nelson"></a>. Some other personal facts:</p>
+<p><strong>Personal facts</strong>: Besides science and research in my core research program, I enjoy reading and listening (audiobooks) about the history of science and about the American history. I drink A LOT OF coffee (espresso and brewed) per day. In my free time, I occasionally spend hours looking at and trying to understand beautiful landscape paintings. Some of my favorite artists until nowadays are <a href="https://www.sfmoma.org/artist/richard_mayhew/">Richard Mayhew</a> and <a href="https://walkerart.org/collections/artists/julie-mehretu">Julie Mehretu</a>. If you like, you can watch <a href="https://youtu.be/KlYbStrFOuc">a short interview with Richard and Julie here</a>. Some other personal facts:</p>
 
 <ul>
   <li>
@@ -76,55 +31,4 @@ Houston, TX 77204-4003<br /></p>
   </li>
 </ul>
 
-
-  </div>
-</div>
-
-      <footer class="pt-5 my-5 text-muted border-top">
-  <div class="row">
-    <div class="col-md-6 text-end social-media-icons">
-      
-    </div>
-
-
-  </div>
-
-      <div class="row">
-
-
-        <div class="col-md-7">
-		<img src="/assets/img/uh-oneline-black.png" alt="Home" width="50%"><br>
-<br>
-		<font size="2"; style="font-family:"Helvetica Neue", Helvetica, Arial, sans-serif"><b>Behrooz Ferdowsi<br>
-Assistant Professor of Civil and Environmental Engineering</b><br>
-Department of Civil and Environmental Engineering<br>
-Office: N115 Engineering Building 1<br>
-Phone: 713-743-4293<br>
-Email: bferdowsi@uh.edu<br></font>
-  </div>
-
-        <div class="col-md-5">
-		<br>
-	<br>	
-
-<font size="2"; style="font-family:"Helvetica Neue", Helvetica, Arial, sans-serif">The Land on which the University of Houston stands is part of the ancient homeland and traditional territory of the Karankawa, Atakapa-Ishak, Coahuiltecan,
-and the Sana people. We pay respect to Karankawa, Atakapa-Ishak, Coahuiltecan, and the Sana  peoples past, present, and future and their continuing presence in the homeland and throughout their diasporas.</font>
-  </div>
-    </div>
-
-
-</footer>
-
-      <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-209770923-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-209770923-1');
-</script>
-
-    </div>
-  </body>
-</html>
+:ET
