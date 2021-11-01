@@ -25,6 +25,7 @@ Behrooz Ferdowsi is an Assistant Professor (Sept. 2021 - present) in the Departm
 
 
 **Membership of professional organizations and societies:**<br>
+. SACNAS (regular member)<br>
 . Association for Women Geoscientists (regular member)<br> 
 . Earth Science Women's Network (regular member)<br>
 . American Physical Society (regular member)<br> 
