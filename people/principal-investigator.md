@@ -19,12 +19,14 @@ Email: bferdowsi@uh.edu
 Office: N115 Engineering Building 1
 
 ---
+<br>
 
-**Academic biography and facts:**<br> 
-Behrooz Ferdowsi is an Assistant Professor (Sept. 2021 - present) in the Department of Civil and Environmental Engineering at the University of Houston, where he leads a newly established research group on the rheology of Earth materials and physics of Earth’s near-surface processes. Behrooz obtained his Ph.D. in Civil, Environmental and Geomatic Engineering from ETH Zurich in Switzerland and his M.Sc. in Civil Engineering from Tehran Polytechnic in Iran. In his PhD research, he worked on understanding the mechanism of triggering of stick-slip instabilities in sheared granular materials using computational methods. For his first postdoctoral appointment, he was based (jointly) in the Department of Earth and Environmental Science at the University of Pennsylvania and in the National Center for Earth-surface Dynamics at the University of Minnesota. During this period, he worked on granular physics of sediment transport in fluvial (rivers and streams) systems and on further understanding the physical basis of the empirical transport laws used for modeling the evolution of landscapes over geological timescale. This is followed by his second appointment as a Harry H. Hess fellow of the Department of Geosciences at Princeton University, during which he worked on understanding the physical origin of an empirical constitutive modeling framework, known as the rate- and state-dependent friction. This framework is commonly used for modeling the transient friction of rocks and other geological materials, including ice-on-ice and ice-on-rock friction, and it is also used for simulating the sliding of glaciers and the nucleation of icequakes. 
+**Biography**<br> 
+Behrooz Ferdowsi is an Assistant Professor (Sept. 2021 - present) in the Department of Civil and Environmental Engineering at the University of Houston, where he leads a newly established research group on the rheology of Earth materials and physics of Earth’s near-surface processes. Behrooz obtained his Ph.D. in Civil, Environmental and Geomatic Engineering from ETH Zurich in Switzerland and his M.Sc. in Civil Engineering from Tehran Polytechnic in Iran. In his PhD research, he worked on understanding the mechanism of triggering of stick-slip instabilities in sheared granular materials using computational methods. For his first postdoctoral appointment, he was based (jointly) in the Department of Earth and Environmental Science at the University of Pennsylvania and in the National Center for Earth-surface Dynamics at the University of Minnesota. During this period, he worked on granular physics of sediment transport in fluvial (rivers and streams) systems and on further understanding the physical basis of the empirical transport laws used for modeling the evolution of landscapes over geological timescale. This is followed by his second appointment as a Harry H. Hess fellow of the Department of Geosciences at Princeton University, during which he worked on understanding the physical origin of an empirical constitutive modeling framework, known as the rate- and state-dependent friction. This framework is commonly used for modeling the transient friction of rocks and other geological materials, including ice-on-ice and ice-on-rock friction. and it is also used for simulating the sliding of glaciers and the nucleation of icequakes. 
 
+<br>  
 
-**Membership of professional organizations and societies:**<br>
+**Membership of professional organizations and societies**<br>
 . SACNAS (regular member)<br>
 . Association for Women Geoscientists (regular member)<br> 
 . Earth Science Women's Network (regular member)<br>
@@ -33,11 +35,11 @@ Behrooz Ferdowsi is an Assistant Professor (Sept. 2021 - present) in the Departm
 . American Geophysical Union (regular member)<br>
 . National Association of Geoscience Teachers (regular member)<br>
 . Society of Rheology (regular member)<br>
-. Society for Industrial and Applied Mathematics (regular member)<br> 
+. Society for Industrial and Applied Mathematics (regular member) 
 
+<br> 
 
-
-**Personal facts:**<br> 
+**Personal facts**<br> 
 Besides science and research in my core research program, I enjoy reading and listening (audiobooks) about the history of science and about the American history. I drink A LOT OF coffee (espresso and brewed) per day. In my free time, I occasionally spend hours looking at and trying to understand beautiful landscape paintings. Some of my favorite contemporary painters and illustrator artists until nowadays are [Richard Mayhew](https://en.wikipedia.org/wiki/Richard_Mayhew), [Julie Mehretu](https://en.wikipedia.org/wiki/Julie_Mehretu), and [Kadir Nelson](https://en.wikipedia.org/wiki/Kadir_Nelson). Some other personal facts:
 
 
