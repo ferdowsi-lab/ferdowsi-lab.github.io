@@ -29,6 +29,7 @@ For a full and up-to-date CV or other interest in my research, please contact me
 
 **Membership of professional organizations and societies**<br>
 . SACNAS (regular member)<br>
+. Institute for Broadening Participation (regular member)<br>
 . Association for Women Geoscientists (regular member)<br> 
 . Earth Science Women's Network (regular member)<br>
 . American Physical Society (regular member)<br> 
