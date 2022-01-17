@@ -9,7 +9,7 @@ Assistant Professor (Sept. 2021 - present)<br>
 Department of Civil and Environmental Engineering<br>
 Cullen College of Engineering<br>
 University of Houston<br>
-4726 Calhoun Road<br>
+4226 Martin Luther King Boulevard<br>
 Houston, TX 77204-4003<br>
 
 Phone: 713-743-4293
