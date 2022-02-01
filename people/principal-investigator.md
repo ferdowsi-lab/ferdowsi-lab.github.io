@@ -28,16 +28,16 @@ For a full and up-to-date CV or other interests in my research, please contact m
 <br>  
 
 **Membership of professional organizations and societies**<br>
-. SACNAS (regular member)<br>
-. Institute for Broadening Participation (regular member)<br>
-. Association for Women Geoscientists (regular member)<br> 
-. Earth Science Women's Network (regular member)<br>
-. American Physical Society (regular member)<br> 
-. American Association for the Advancement of Science (regular member)<br> 
-. American Geophysical Union (regular member)<br>
-. National Association of Geoscience Teachers (regular member)<br>
-. Society of Rheology (regular member)<br>
-. Society for Industrial and Applied Mathematics (regular member) 
+. SACNAS<br>
+. Institute for Broadening Participation<br>
+. Association for Women Geoscientists<br> 
+. Earth Science Women's Network<br>
+. American Physical Society: GPC, DFD, DSOFT, GSNP<br> 
+. American Association for the Advancement of Science<br> 
+. American Geophysical Union<br>
+. National Association of Geoscience Teachers<br>
+. Society of Rheology<br>
+. Society for Industrial and Applied Mathematics 
 
 <br> 
 
