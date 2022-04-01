@@ -39,6 +39,7 @@ For a full and up-to-date CV or other interests in my research, please contact m
 . European Geosciences Union (EGU)<br>
 . National Organization of Gay and Lesbian Scientists and Technical Professionals (NOGLSTP)<br>
 
+<br>
 <br> 
 
 **Personal facts**<br> 
