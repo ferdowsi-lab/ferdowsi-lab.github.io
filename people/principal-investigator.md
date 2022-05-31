@@ -5,7 +5,7 @@ title: "Behrooz Ferdowsi"
 
 Pronouns: he/him/they/them
 
-Born in Tehran, Iran, Citizen of Iran<br>
+Born in Tehran, Iran, citizen of Iran<br>
 United States permanent resident<br>
 
 Assistant Professor (Sept. 2021 - present)<br>
