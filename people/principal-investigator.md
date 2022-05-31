@@ -5,7 +5,7 @@ title: "Behrooz Ferdowsi"
 
 Pronouns: he/him/they/them
 
-Born in Tehran, Iran, citizen of Iran<br>
+Born in Tehran, Iran, Citizen of Iran<br>
 United States permanent resident<br>
 
 Assistant Professor (Sept. 2021 - present)<br>
@@ -16,9 +16,7 @@ University of Houston<br>
 Houston, TX 77204-4003<br>
 
 Phone: 713-743-4293
-
 Email: bferdowsi@uh.edu
-
 Office: N115 Engineering Building 1
 
 ---
