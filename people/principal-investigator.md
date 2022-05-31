@@ -15,9 +15,9 @@ University of Houston<br>
 4226 Martin Luther King Boulevard<br>
 Houston, TX 77204-4003<br>
 
-Phone: 713-743-4293
-Email: bferdowsi@uh.edu
-Office: N115 Engineering Building 1
+Phone: 713-743-4293<br>
+Email: bferdowsi@uh.edu<br>
+Office: N115 Engineering Building 1<br>
 
 ---
 <br>
