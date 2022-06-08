@@ -32,7 +32,6 @@ For a full and up-to-date CV or other interests in my research, please contact m
 . American Physical Society (APS): GPC, DFD, DSOFT, GSNP<br> 
 . American Association for the Advancement of Science (AAAS)<br> 
 . American Society of Mechanical Engineers (ASME): Applied Mechanics, Tribology<br> 
-. Earth Science Women's Network<br>
 . National Association of Geoscience Teachers<br>
 . Society for Industrial and Applied Mathematics (SIAM)<br> 
 . Society of Rheology<br>
