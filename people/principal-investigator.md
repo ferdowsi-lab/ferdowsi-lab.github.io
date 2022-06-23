@@ -32,10 +32,11 @@ For a full and up-to-date CV or other interests in my research, please contact m
 . American Physical Society (APS): GPC, DFD, DSOFT, GSNP<br> 
 . American Association for the Advancement of Science (AAAS)<br> 
 . American Society of Mechanical Engineers (ASME): Applied Mechanics, Tribology<br> 
-. National Association of Geoscience Teachers<br>
+. National Association of Geoscience Teachers (NAGT)<br>
 . Society for Industrial and Applied Mathematics (SIAM)<br> 
-. Society of Rheology<br>
-. Association for Women Geoscientists<br> 
+. Society for the Advancement of Chicanos/Hispanics and Native Americans in Science (SACNAS)<br> 
+. Society of Rheology (SOR)<br>
+. Association for Women Geoscientists (AWG)<br> 
 . European Geosciences Union (EGU)<br>
 . National Organization of Gay and Lesbian Scientists and Technical Professionals (NOGLSTP)<br>
 
