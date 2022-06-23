@@ -5,7 +5,7 @@ title: "Behrooz Ferdowsi"
 
 Pronouns: he/him/they/them
 
-Citizen of Iran. United States permanent resident.<br>
+<i> Citizen of Iran. United States permanent resident</i>.<br>
 
 Assistant Professor (Sept. 2021 - present)<br>
 Department of Civil and Environmental Engineering<br>
