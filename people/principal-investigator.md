@@ -36,7 +36,7 @@ For a full and up-to-date CV or other interests in my research, please contact m
 . Society for Industrial and Applied Mathematics (SIAM)<br> 
 . Society for the Advancement of Chicanos/Hispanics and Native Americans in Science (SACNAS)<br> 
 . Society of Rheology (SOR)<br>
-. Association for Women Geoscientists (AWG)<br> 
+. American Association of University Women (AAUW)<br> 
 . European Geosciences Union (EGU)<br>
 . National Organization of Gay and Lesbian Scientists and Technical Professionals (NOGLSTP)<br>
 
