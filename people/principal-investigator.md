@@ -36,6 +36,7 @@ For a full and up-to-date CV or other interests in my research, please contact m
 . Society of Rheology (SOR)<br>
 . American Association of University Women (AAUW)<br> 
 . European Geosciences Union (EGU)<br>
+. Geological Society of America (GSA)<br>
 . National Organization of Gay and Lesbian Scientists and Technical Professionals (NOGLSTP)<br>
 
 <br>
