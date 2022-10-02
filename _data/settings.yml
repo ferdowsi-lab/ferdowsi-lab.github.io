@@ -8,7 +8,7 @@ menu:
 
 people:
 - {name: 'Behrooz Ferdowsi (he/they)', title: 'Assistant Professor', department: 'Civil and Environmental Engineering', institution: 'University of Houston', institution_address: 'Cullen College of Engineering, 4226 Martin Luther King Boulevard, TX 77204-4003', phone: '713-743-4293', email: 'bferdowsi@uh.edu', office: 'N115 Engineering Building 1', image: 'assets/img/BehroozFerdowsi.jpg', url: 'principal-investigator'}
-- {name: 'Shreya Kanakiya', title: 'Postdoctoral Research Fellow', department: 'Civil and Environmental Engineering', institution: 'University of Houston'', institution_address: ' ', phone: ' ', email: ' ', office: ' ', url: 'postdoctoral-researchers'}
+- {name: 'Shreya Kanakiya (she)', title: 'Postdoctoral Research Fellow', department: 'Civil and Environmental Engineering', institution: 'University of Houston', institution_address: ' ', phone: ' ', email: ' ', office: ' ', url: 'postdoctoral-researchers'}
 - {name: 'Aizhan Zhakupova', title: 'Graduate Research Assistant', department: 'Civil and Environmental Engineering', institution: 'University of Houston', institution_address: ' ', phone: ' ', email: ' ', office: ' ', url: 'graduate-students-aizhan'}
 - {name: 'Bimal Chhushyabaga', title: 'Graduate Research Assistant', department: 'Civil and Environmental Engineering', institution: 'University of Houston', institution_address: ' ', phone: ' ', email: ' ', office: ' ', url: 'graduate-students-bimal'}
 
