@@ -33,7 +33,6 @@ For a full and up-to-date CV or other interests in my research, please contact m
 . American Association for the Advancement of Science (AAAS)<br> 
 . American Society of Mechanical Engineers (ASME): Applied Mechanics, Tribology<br>
 . Society for the Advancement of Chicanos and Native Americans in Science (SACNAS)<br> 
-. National Association of Geoscience Teachers (NAGT)<br>
 . Society of Rheology (SOR)<br>
 . American Association of University Women (AAUW)<br> 
 . European Geosciences Union (EGU)<br>
