@@ -28,16 +28,16 @@ For a full and up-to-date CV or other interests in my research, please contact m
 <br>
 
 **Membership of professional organizations and societies**<br>
-. American Geophysical Union (AGU)<br>
-. American Physical Society (APS): GPC, DFD, DSOFT, GSNP<br> 
-. American Association for the Advancement of Science (AAAS)<br> 
-. American Society of Mechanical Engineers (ASME): Applied Mechanics, Tribology<br>
-. Society for the Advancement of Chicanos and Native Americans in Science (SACNAS)<br> 
-. Society of Rheology (SOR)<br>
-. American Association of University Women (AAUW)<br> 
-. European Geosciences Union (EGU)<br>
-. Geological Society of America (GSA)<br>
-. National Organization of Gay and Lesbian Scientists and Technical Professionals (NOGLSTP)<br>
+. American Geophysical Union (Life member))<br>
+. American Physical Society: GPC, DFD, DSOFT, GSNP<br> 
+. American Association for the Advancement of Science<br> 
+. American Society of Mechanical Engineers: Applied Mechanics, Tribology<br>
+. Society for the Advancement of Chicanos and Native Americans in Science<br> 
+. Society of Rheology<br>
+. American Association of University Women<br> 
+. European Geosciences Union<br>
+. Geological Society of America<br>
+. National Organization of Gay and Lesbian Scientists and Technical Professionals<br>
 
 <br>
 
