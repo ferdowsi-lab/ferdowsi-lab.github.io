@@ -28,7 +28,7 @@ For a full and up-to-date CV or other interests in my research, please contact m
 <br>
 
 **Membership of professional organizations and societies**<br>
-. American Geophysical Union (Life member))<br>
+. American Geophysical Union (Life member)<br>
 . American Physical Society: GPC, DFD, DSOFT, GSNP<br> 
 . American Association for the Advancement of Science<br> 
 . American Society of Mechanical Engineers: Applied Mechanics, Tribology<br>
