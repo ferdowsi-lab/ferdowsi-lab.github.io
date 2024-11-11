@@ -3,7 +3,6 @@ layout: page
 title: "Behrooz Ferdowsi"
 ---
 
-Pronouns: he/him/they/them
 
 <i> Citizen of Iran. United States permanent resident</i>.<br>
 
