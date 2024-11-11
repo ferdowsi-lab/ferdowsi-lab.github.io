@@ -31,12 +31,8 @@ For a full and up-to-date CV or other interests in my research, please contact m
 . American Physical Society: GPC, DFD, DSOFT, GSNP<br> 
 . American Association for the Advancement of Science<br> 
 . American Society of Mechanical Engineers: Applied Mechanics, Tribology<br>
-. Society for the Advancement of Chicanos and Native Americans in Science<br> 
 . Society of Rheology<br>
-. American Association of University Women<br> 
 . European Geosciences Union<br>
-. Geological Society of America<br>
-. National Organization of Gay and Lesbian Scientists and Technical Professionals<br>
 
 <br>
 
